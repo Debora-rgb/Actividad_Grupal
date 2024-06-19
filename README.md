@@ -1,8 +1,10 @@
-# Actividad_Grupal
+![image](https://github.com/mlbth11/Actividad_Grupal/assets/173289564/294499ff-6344-4b9a-8289-3eb556f5fa56)# Actividad_Grupal
 Github: Crear un repositorio Github. Control de versiones
 # Estudiantes: Masache Debora y Enriquez Martha
 ## Nota: En la carpeta "Proyecto1" Se encuentran los resultados de cada etapa del proyecto
 ## Nota2: Para visualizar los archivos .qzv y .qza se utiliza: https://old-view.qiime2.org
+
+Este tutorial está diseñado servir para dos propósitos. En primer lugar, ilustra los pasos de procesamiento inicial del análisis de lectura de extremo emparejado, hasta el punto en que los pasos de análisis son idénticos al análisis de lectura de extremo único. Esto incluye los pasos de importación, desmultiplexación y desnado, y da como resultado una tabla de características y las secuencias de características asociadas. En segundo lugar, este pretende ser un ejercicio autoguiado que podría ejecutarse después del tutorial de imágenes en movimiento para obtener más experiencia con QIIME 2. Para este ejercicio, proporcionamos algunas preguntas que se pueden utilizar para guiar su análisis, pero no proporcionamos comandos que le permitan abordar cada una. En su lugar, debes aplicar los comandos que aprendiste en el tutorial de imágenes en movimiento.
 
 # 1. 
 
